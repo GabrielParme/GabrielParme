@@ -29,3 +29,15 @@
     <img align="center" alt="amazon aws"src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     
 </div>
+<br><br/>
+<p align="left">
+   - Interesses: <strong>Tecnologias e suas aplicações, esportes, violão, leitura e mercado financeiro.</strong>
+</p>
+
+<p align="left">
+   -  Idiomas: <strong> Português, Inglês, Espanhol e Italiano </strong>
+</p>
+
+<p align="left">
+   - Ferramentas: <strong>VSCode, AWS, MySQL Workbench, Astah UML, NetBeans, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma</strong>
+</p> 
