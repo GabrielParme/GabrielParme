@@ -41,3 +41,4 @@
 <p align="left">
    - Ferramentas: <strong>VSCode, AWS, MySQL Workbench, Astah UML, NetBeans, Jupyter Notebook, Google Colab, Trello, GitHub, Git, Figma</strong>
 </p> 
+ 
