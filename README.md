@@ -30,7 +30,7 @@
 </div>
 <br><br/>
 <p align="left">
-   - Interesses: <strong>Tecnologias e suas aplicações, esportes, violão, leitura e mercado financeiro.</strong>
+   - Interesses: <strong>Tecnologias e suas aplicações, Surf, WakeBoard, WakeSurf, Foil (esportes aquáticos em geral), violão, leitura e mercado financeiro.</strong>
 </p>
 
 <p align="left">
