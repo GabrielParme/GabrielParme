@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gabriel Parmigiano 👋
 
 
-<p>Atualmente cursando o <b>2°</b> ano de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
+<p>Atualmente cursando o <b>3°</b> ano de <b>Ciência da Computação</b> no <img src="https://i.imgur.com/V3cBT7o.png" width=13> <b>Instituto Mauá de Tecnologia.</b> </p>
 
 #### Onde me encontrar: 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-parmigiano-438a1525a)
